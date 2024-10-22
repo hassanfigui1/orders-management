@@ -1,0 +1,9 @@
+[submodule "Product-Servie"]
+	path = Product-Servie
+	url = https://github.com/hassanfigui1/orders-management.git
+[submodule "Orders-Servie"]
+	path = Orders-Servie
+	url = https://github.com/hassanfigui1/orders-management.git
+[submodule "Customer-Servie"]
+	path = Customer-Servie
+	url = https://github.com/hassanfigui1/orders-management.git
